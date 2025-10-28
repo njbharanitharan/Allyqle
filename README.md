@@ -9,8 +9,7 @@ Ultimate AI Companion App!
 
 ## 🖼️ Preview
 
-![Allyqle (2)-1.png]
-*(You can replace this banner with your own in the `assets/` folder)*
+
 
 ---
 
