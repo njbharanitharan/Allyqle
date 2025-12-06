@@ -1,8 +1,8 @@
 # Allyqle
 Ultimate AI Companion App!
-# 🌸 Allycle — Your Personal AI Companion
+# 🌸 Allyqle — Your Personal AI Companion
 
-> **Allycle** is your everyday AI-powered emotional companion.  
+> **Allyqle** is your everyday AI-powered emotional companion.  
 > Built to **listen, support, and grow with you** — helping you stay mindful, motivated, and emotionally balanced.  
 
 ---
@@ -17,7 +17,7 @@ Ultimate AI Companion App!
 
 | 🌟 Category | 💬 Description |
 |--------------|----------------|
-| 🧠 **AI Companion Chat** | Talk to Allycle about your day — it listens, understands, and offers meaningful responses. |
+| 🧠 **AI Companion Chat** | Talk to Allyqle about your day — it listens, understands, and offers meaningful responses. |
 | 🪞 **Mood Tracker** | Track your emotions with visuals and get personalized insights. |
 | 💌 **Daily Affirmations** | Get morning boosts and positivity notifications. |
 | 🧘 **Wellness Routines** | Guided breathing, journaling prompts, and mental fitness ideas. |
